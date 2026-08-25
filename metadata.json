@@ -1,0 +1,6 @@
+{
+  "name": "REELCHEF AI",
+  "description": "Save Instagram food reels, extract recipes with Gemini AI, rename, and organize cooking guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
